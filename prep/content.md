@@ -31,6 +31,7 @@ Topic: **X**
 ##### Hardware
 * Tech
   * Detail
+  * https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career
   * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
 
 ## Part B: possible future technology
