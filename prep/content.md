@@ -29,10 +29,17 @@ Topic: **Social work**
   * In addition, reviews from collaborate also highlight how easy and straightforward this app works. Also, they claim it keeps connection between their team in order to work together and stay organized while also being satisfied with their results.
 
 ##### Hardware
-* Tech
+* Tech hardware "what hardware can be found in social work?"
   * In social work,they mostly work on their computers to keep everything organized. This requires things like:
     * A strong CPU: An electronic circuitry that run a computer's operating system and apps and manage a variety of other computer operations. Its essentially the active brain of the computer. 
     * Memory module: holds dynamic random-access memory chips. It plugs directly into a slot on a computer's motherboard to provide fast, temporary volatile data storage for the processor
+  * careers included in social work are divided into categories:
+    * BSW: Stands for Bachelor Social Work which you can get after 4 years in college going around $10,000 to $35,000. it requieres to be supervised by a licenced social worker and its usually non-clinical. They are not authorized to give independent clinical or private therapy. They do cases like:
+    * case manager/caseworker
+    * child welfare specialists
+    * patient navigator
+    * mental health assistant/ substance uses councelor
+    * community outreach or program coordinator
   * https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career
   * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
 
