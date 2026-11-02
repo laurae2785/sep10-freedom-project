@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Social work**
 
 ## Overview/Introduction/Context
 * Text
@@ -30,7 +30,9 @@ Topic: **X**
 
 ##### Hardware
 * Tech
-  * Detail
+  * In social work,they mostly work on their computers to keep everything organized. This requires things like:
+    * A strong CPU: An electronic circuitry that run a computer's operating system and apps and manage a variety of other computer operations. Its essentially the active brain of the computer. 
+    * Memory module: holds dynamic random-access memory chips. It plugs directly into a slot on a computer's motherboard to provide fast, temporary volatile data storage for the processor
   * https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career
   * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
 
