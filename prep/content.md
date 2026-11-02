@@ -40,6 +40,7 @@ Topic: **Social work**
     * patient navigator
     * mental health assistant/ substance uses councelor
     * community outreach or program coordinator
+    * <img width="500" height="400" alt="image" src= "https://www.socialworkers.org/portals/0/Images/_Careers/careers-explore-degree-300sq.jpg?ver=2018-07-12-145719-947"/>
   * https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career
   * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
 
