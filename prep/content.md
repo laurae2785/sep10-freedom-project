@@ -33,6 +33,8 @@ Topic: **Social work**
   * In social work,they mostly work on their computers to keep everything organized. This requires things like:
     * A strong CPU: An electronic circuitry that run a computer's operating system and apps and manage a variety of other computer operations. Its essentially the active brain of the computer. 
     * Memory module: holds dynamic random-access memory chips. It plugs directly into a slot on a computer's motherboard to provide fast, temporary volatile data storage for the processor
+* On the other hand, there are several other branches that you can pick from based off your level of experience. Here are some examples:
+ * Website: https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career 
   * careers included in social work are divided into categories:
     * BSW: Stands for Bachelor Social Work which you can get after 4 years in college going around $10,000 to $35,000. it requieres to be supervised by a licenced social worker and its usually non-clinical. They are not authorized to give independent clinical or private therapy. They do cases like:
     * case manager/caseworker
@@ -41,8 +43,17 @@ Topic: **Social work**
     * mental health assistant/ substance uses councelor
     * community outreach or program coordinator
     * <img width="500" height="400" alt="image" src= "https://www.socialworkers.org/portals/0/Images/_Careers/careers-explore-degree-300sq.jpg?ver=2018-07-12-145719-947"/>
-  * https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career
   * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
+  * https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg
+* MSW: stands for Master Social Work, you can obtain this tittle after 2 additional graduate degree or even 1 if a BSW is able to enroll a BSW-to-MSW advanced standing, although it's limited to elegible applicants. They can work in cases like: 
+   * Business & management
+   * Counseling
+   * Criminal justice
+   * Education
+   * Nursing
+   * Physiology
+   * Social work & Human services  
+  
 
 ## Part B: possible future technology
 * Idea
