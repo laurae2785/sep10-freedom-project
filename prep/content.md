@@ -54,7 +54,9 @@ Topic: **Social work**
    * Physiology
    * Social work & Human services
 * DSW: This is the highest degree you can obtain in social work and it can be achieved after a 2 or 5 year program, during this time more specialized training for advanced practice is required for leadership positions. 
- * They do the same work as MSW but in a more professional level, they also make more money annually ( 90k plus ) but the payoff depends heavily on your target role, funding package, state licensure rules, employer type, and willingness to relocate. 
+ * They do the same work as MSW but in a more professional level, they also make more money annually ( 90k plus ) but the payoff depends heavily on your target role, funding package, state licensure rules, employer type, and willingness to relocate.
+ * <img width="342" height="771" alt="image" src="https://github.com/user-attachments/assets/723af015-c762-4082-9544-dc2de9ad0ba7" />
+
   
 
 ## Part B: possible future technology
