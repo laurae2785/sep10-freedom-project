@@ -2,22 +2,47 @@
 Topic: **Social work**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Social work is profession with the aim of helping people who have social disadvantages or personal problems.
+* Social work has an extensive amount of fields in which you can specialize in depending on your experience level.
+* Some apps are now a big part of this position to help with the needs of clients and improve quality of results. 
 
-## Part A: existing technology
+## Part A: Experience & complexity 
 
-##### Software
-* First google search: "Apps to help social workers"
+### Least complex + Least experience 
+##### Degree:
+ * BSW: Stands for Bachelor Social Work which you can get after 4 years in college going around $10,000 to $35,000. it requieres to be supervised by a licenced social worker and its usually non-clinical. They are not authorized to give independent clinical or private therapy. They do cases like:
+    * case manager/caseworker
+    * child welfare specialists
+    * patient navigator
+    * mental health assistant/ substance uses councelor
+    * community outreach or program coordinator
+    * <img width="500" height="400" alt="image" src= "https://www.socialworkers.org/portals/0/Images/_Careers/careers-explore-degree-300sq.jpg?ver=2018-07-12-145719-947"/>
+##### Apps to help BSW:
 * 1st website: telehealth  https://agentsofchangeprep.com/blog/the-role-of-technology-in-modern-social-work-practice/
 * While reading through this website, i found that it contained an additional app designed to take courses for social work in different categories that gave you more credits, like for example:
    * trauma/burnout
    * children/teens/school
    * clinical/cultural competence
    * Ethnics/domestic violence
-* Aside from the courses, this website also helps patients and social workers to be able to receive and get therapy online through video, phone and digital platforms.
-  * [teen counseling ]<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/33b0c5fd-071b-43e3-b5cf-7b8675f9a3e0" />
-* Second app: Collaborate https://www.capterra.com/p/143681/Collaborate/#features
+*This is helpful because you're able to take those courses at your available own time and you can choose depending on what you want to keep working on or gain experience with.
+##### needed things
+  * In social work,they mostly work on their computers to keep everything organized. This requires things like:
+    * A strong CPU: An electronic circuitry that run a computer's operating system and apps and manage a variety of other computer operations. Its essentially the active brain of the computer. 
+    * Memory module: holds dynamic random-access memory chips. It plugs directly into a slot on a computer's motherboard to provide fast, temporary volatile data storage for the processor
+  
+### Mildly complex + mildly experience 
+##### Degree;
+* MSW: stands for Master Social Work, you can obtain this tittle after 2 additional graduate degree or even 1 if a BSW is able to enroll a BSW-to-MSW advanced standing, although it's limited to elegible applicants. They can work in cases like: 
+   * Business & management
+   * Counseling
+   * Criminal justice
+   * Education
+   * Nursing
+   * Physiology
+   * Social work & Human services
+
+##### Apps to help MSW:
+* Collaborate https://www.capterra.com/p/143681/Collaborate/#features
   * On this app, you're able to customize how you want to manage your cases and can be used for 5+ staff menmbers.  
   * This app is helpful towards team social work allowing them to be connected and manage their clients. It's mostly known for:
    *  HIPPA compliant:
@@ -27,35 +52,21 @@ Topic: **Social work**
   * Client communication/management:
      * Lastly, it gives workers an opportunity to communicate, manage costumer information and work on a complex procces for them.
   * In addition, reviews from collaborate also highlight how easy and straightforward this app works. Also, they claim it keeps connection between their team in order to work together and stay organized while also being satisfied with their results.
-
-##### Hardware
-* Tech hardware "what hardware can be found in social work?"
-  * In social work,they mostly work on their computers to keep everything organized. This requires things like:
-    * A strong CPU: An electronic circuitry that run a computer's operating system and apps and manage a variety of other computer operations. Its essentially the active brain of the computer. 
-    * Memory module: holds dynamic random-access memory chips. It plugs directly into a slot on a computer's motherboard to provide fast, temporary volatile data storage for the processor
-* On the other hand, there are several other branches that you can pick from based off your level of experience. Here are some examples:
- * Website: https://www.waldenu.edu/programs/social-work-human-services/resource/five-ways-technology-enhances-a-social-workers-career 
-  * careers included in social work are divided into categories:
-    * BSW: Stands for Bachelor Social Work which you can get after 4 years in college going around $10,000 to $35,000. it requieres to be supervised by a licenced social worker and its usually non-clinical. They are not authorized to give independent clinical or private therapy. They do cases like:
-    * case manager/caseworker
-    * child welfare specialists
-    * patient navigator
-    * mental health assistant/ substance uses councelor
-    * community outreach or program coordinator
-    * <img width="500" height="400" alt="image" src= "https://www.socialworkers.org/portals/0/Images/_Careers/careers-explore-degree-300sq.jpg?ver=2018-07-12-145719-947"/>
-  * [](https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg)
-  * https://onlinemsw.fsu.edu/sites/default/files/legacy/telecounseling.jpg
-* MSW: stands for Master Social Work, you can obtain this tittle after 2 additional graduate degree or even 1 if a BSW is able to enroll a BSW-to-MSW advanced standing, although it's limited to elegible applicants. They can work in cases like: 
-   * Business & management
-   * Counseling
-   * Criminal justice
-   * Education
-   * Nursing
-   * Physiology
-   * Social work & Human services
-* DSW: This is the highest degree you can obtain in social work and it can be achieved after a 2 or 5 year program, during this time more specialized training for advanced practice is required for leadership positions. 
+    
+#### Most complex + Most experience 
+##### Degree:
+* LCSW: It stands for Licenced Social Worker, this is the highest degree you can obtain in social work and it can be achieved after a 2 or 5 year program, during this time more specialized training for advanced practice is required for leadership positions. 
  * They do the same work as MSW but in a more professional level, they also make more money annually ( 90k plus ) but the payoff depends heavily on your target role, funding package, state licensure rules, employer type, and willingness to relocate.
  * <img width="342" height="771" alt="image" src="https://github.com/user-attachments/assets/723af015-c762-4082-9544-dc2de9ad0ba7" />
+ ##### Apps to help LCSW
+ * The same apps shown above can be used for this position in social work.
+   * Collaborate: https://www.capterra.com/p/143681/Collaborate/#features
+   * telehealth:  https://agentsofchangeprep.com/blog/the-role-of-technology-in-modern-social-work-practice/
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/33b0c5fd-071b-43e3-b5cf-7b8675f9a3e0" />
+   
+
+
+
 
   
 
